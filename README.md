@@ -1,3 +1,5 @@
+# This project is based on the tutorial by [fireship.io](https://fireship.io/courses/angular/start-angular-beginner-tutorial/)
+
 # Tictactoe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
